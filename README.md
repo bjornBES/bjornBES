@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bjornBES
+- 👀 I’m interested in coding and making games
+- 🌱 I’m currently learning C# and Unity
+- 📫 How to reach me by discoid and twitch wen I'm streaming and YouTube channel But the name of BjornBEs
