@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjornBES
-- 👀 I’m interested in coding and making games
-- 🌱 I’m currently learning C# and Unity
-- 📫 How to reach me by discoid and twitch wen I'm streaming and YouTube channel But the name of BjornBEs
+hello my name bjornBEs
+
+i am a game developer, software developer and system developer
+i like to make games, music systems and generally all kinds of software
